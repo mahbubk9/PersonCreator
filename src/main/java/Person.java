@@ -82,4 +82,9 @@ public class Person {
     public void setWeight(double weight) {
         this.weight = weight;
     }
+    public void growOlder(){
+        age++;
+        height--;
+        weight-=0.5;
+    }
 }
