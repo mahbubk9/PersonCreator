@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58a91018-e658-4214-a673-c500b735d54f" name="Changes" comment="commit after exercise 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CircleTest.java" afterDir="false" />
+    <list default="true" id="58a91018-e658-4214-a673-c500b735d54f" name="Changes" comment="commit after exercise 3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Library.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +45,16 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CircleTest">
+  <component name="RunManager" selected="Application.Library">
     <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CircleTest" />
+      <module name="PersonCreator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Library" />
       <module name="PersonCreator" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Library" />
         <item itemvalue="Application.CircleTest" />
         <item itemvalue="Application.PersonCreator" />
       </list>
@@ -89,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654976889648</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit after exercise 3">
+      <created>1654981759828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654981759828</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="commit after exercise 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit after exercise 2" />
+    <MESSAGE value="commit after exercise 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit after exercise 3" />
   </component>
 </project>
